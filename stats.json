@@ -1,0 +1,73 @@
+{
+  "vocab_size": 10000,
+  "learned_tokens": 9801,
+  "reserved_tokens": 199,
+  "sample_words": 1690,
+  "allocation": {
+    "en": 2203,
+    "hi": 1781,
+    "te": 3120,
+    "ta": 2640
+  },
+  "per_language": {
+    "en": {
+      "name": "English",
+      "words": 1690,
+      "tokens": 1840,
+      "X": 1.0888
+    },
+    "hi": {
+      "name": "Hindi",
+      "words": 1690,
+      "tokens": 1829,
+      "X": 1.0822
+    },
+    "te": {
+      "name": "Telugu",
+      "words": 1690,
+      "tokens": 1822,
+      "X": 1.0781
+    },
+    "ta": {
+      "name": "Tamil",
+      "words": 1690,
+      "tokens": 1821,
+      "X": 1.0775
+    }
+  },
+  "sorted_ascending": [
+    {
+      "lang": "ta",
+      "name": "Tamil",
+      "X": 1.0775
+    },
+    {
+      "lang": "te",
+      "name": "Telugu",
+      "X": 1.0781
+    },
+    {
+      "lang": "hi",
+      "name": "Hindi",
+      "X": 1.0822
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "X": 1.0888
+    }
+  ],
+  "X_min": {
+    "lang": "ta",
+    "name": "Tamil",
+    "value": 1.0775
+  },
+  "X_max": {
+    "lang": "en",
+    "name": "English",
+    "value": 1.0888
+  },
+  "spread": 0.0113,
+  "score": 88495.58,
+  "all_under_1_2": true
+}
